@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>input zip</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0fc2d910-2a1c-4467-8adf-defdae53bd85</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>146aa58c-eab6-4ea1-a83f-40b6c1cef2a3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>146aa58c-eab6-4ea1-a83f-40b6c1cef2a3</id>
+      <masked>false</masked>
+      <name>zip</name>
+   </variable>
+</TestCaseEntity>
